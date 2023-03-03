@@ -1,0 +1,33 @@
+{
+	"Get_Customer_Info_V15_Req": {
+		"Customer_Identif": {
+			"Cb_Cust_No": "75174",
+			"Mobile_No": {
+				"Country_Code": "",
+				"Number": ""
+			},
+			"Legal_Identif": {
+				"Country_Of_Issue": "",
+				"Legal_Doc_Name": "",
+				"Legal_Id": ""
+			}
+		},
+		"Requestor": {
+			"Channel_Id": "indl"
+		},
+		"Additional_Infos": [
+			{
+				"Additional_Info": "BANK_OFFICERS"
+			},
+			{
+				"Additional_Info": "INFO_MARKERS"
+			},
+			{
+				"Additional_Info": "POST_RESTR"
+			},
+			{
+				"Additional_Info": "ADDR_EMAIL"
+			}
+		]
+	}
+}

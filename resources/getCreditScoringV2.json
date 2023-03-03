@@ -1,0 +1,22 @@
+{
+    "Get_Credit_Scoring_V2_Req": {
+        "Requestor": {
+            "Channel_Id": "indl",
+            "Cb_Cust_No": "75175"
+        },
+        "Additional_Infos": [
+            {
+                "Additional_Info": "EXPOSURE_ACTIVE"
+            },
+            {
+                "Additional_Info": "MONTHLY_TURNOVER"
+            },
+            {
+                 "Additional_Info": "DELINQUENCY_INFO"
+            }
+
+        ],
+        "Turn_Over_Period_Mnths": "3"
+    }
+}
+
